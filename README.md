@@ -366,6 +366,32 @@ AWS_SECRET_ACCESS_KEY
 INFRACOST_API_KEY
 ```
 
+# Screenshots 
+
+<img width="1600" height="692" alt="image" src="https://github.com/user-attachments/assets/adc64354-e37f-4bc8-9323-6e59ee702cfc" />
+
+
+<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/a5a3e17e-a05c-4484-9f5d-88dd0041118b" />
+
+
+<img width="1600" height="555" alt="image" src="https://github.com/user-attachments/assets/d45854b8-3db4-42e4-b7c7-b87927695029" />
+
+
+<img width="1570" height="792" alt="image" src="https://github.com/user-attachments/assets/dfbd52a6-e422-4954-bc8a-e0e2438e2b91" />
+
+
+<img width="1600" height="806" alt="image" src="https://github.com/user-attachments/assets/4e57465e-1151-4a4f-9640-a191c2f24e62" />
+
+
+<img width="1600" height="806" alt="image" src="https://github.com/user-attachments/assets/3e60ea15-9809-4537-b17e-521c210da89a" />
+
+
+<img width="1600" height="806" alt="image" src="https://github.com/user-attachments/assets/cfce5a0f-b4db-413e-9856-8a2a06eec07c" />
+
+
+<img width="1600" height="579" alt="image" src="https://github.com/user-attachments/assets/f420e3bf-5adf-40f0-8660-9a5d8822ec7a" />
+
+
 ---
 
 # AWS Services Used
