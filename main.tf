@@ -22,8 +22,8 @@ module "ec2_sg" {
   source      = "./modules/security-group"
   name        = "ec2-sg"
   description = "EC2 Security Group"
-  vpc_id       = module.vpc.vpc_id
-  my_ip        = "0.0.0.0/0"
+  vpc_id      = module.vpc.vpc_id
+  my_ip       = "0.0.0.0/0"
 }
 
 resource "aws_s3_bucket" "app_bucket" {
